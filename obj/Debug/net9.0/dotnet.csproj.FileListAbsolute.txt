@@ -1,0 +1,14 @@
+C:\Users\aramb\Downloads\dotnet\bin\Debug\net9.0\dotnet.exe
+C:\Users\aramb\Downloads\dotnet\bin\Debug\net9.0\dotnet.deps.json
+C:\Users\aramb\Downloads\dotnet\bin\Debug\net9.0\dotnet.runtimeconfig.json
+C:\Users\aramb\Downloads\dotnet\bin\Debug\net9.0\dotnet.dll
+C:\Users\aramb\Downloads\dotnet\bin\Debug\net9.0\dotnet.pdb
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.AssemblyInfo.cs
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.dll
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\refint\dotnet.dll
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.pdb
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\dotnet.genruntimeconfig.cache
+C:\Users\aramb\Downloads\dotnet\obj\Debug\net9.0\ref\dotnet.dll
